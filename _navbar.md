@@ -7,4 +7,4 @@
   - [EEGfaktura](https://github.com/eegfaktura/)
   - [EDA Portal](https://www.eda.at/energiegemeinschaften/)
   - [EDA Portal (YouTube)](https://www.youtube.com/watch?v=yw7dFEtkaio/)
-  - [E-Control](https://www.e-control.at/[Gas- und Strom Netz Ausichtsbehörde])
+  - [E-Control](https://www.e-control.at/ "Gas- und Strom Netz Ausichtsbehörde")
