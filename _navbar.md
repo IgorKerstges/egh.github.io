@@ -8,3 +8,5 @@
   - [EDA Portal](https://www.eda.at/energiegemeinschaften/)
   - [EDA Portal (YouTube)](https://www.youtube.com/watch?v=yw7dFEtkaio/)
   - [E-Control](https://www.e-control.at/ "Gas- und Strom Netz Ausichtsbehörde")
+  - [Durchblicker](https://durchblicker.at/strom)
+  - [Tarife](https://www.tarife.at/energie/strom)
