@@ -10,3 +10,4 @@
   - [E-Control](https://www.e-control.at/ "Gas- und Strom Netz Ausichtsbehörde")
   - [Durchblicker](https://durchblicker.at/strom)
   - [Tarife](https://www.tarife.at/energie/strom)
+  - [Wien Energie EEG Service](https://www.wienenergie.at/business/energiegemeinschaften/)
