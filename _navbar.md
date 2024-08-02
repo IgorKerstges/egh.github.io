@@ -11,3 +11,4 @@
   - [Durchblicker](https://durchblicker.at/strom)
   - [Tarife](https://www.tarife.at/energie/strom)
   - [Wien Energie EEG Service](https://www.wienenergie.at/business/energiegemeinschaften/)
+  - [Amorisationszeit Rechner FV Anlage](https://www.rechnerphotovoltaik.de/rechner/amortisationszeit)
