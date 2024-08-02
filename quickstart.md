@@ -2,6 +2,9 @@
 
 Es wird empfohlen, `docsify-cli` global zu installieren, welches bei der Inbetriebnahme und der lokalen Vorschau hilft.
 
+
+<img src="./_media/NahbereichDefinition.svg" alt="Nahbereich - Definition">
+
 ```bash
 npm i docsify-cli -g
 ```
