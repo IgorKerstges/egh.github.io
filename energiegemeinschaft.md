@@ -32,6 +32,8 @@ Es ist wichtig zu beachten, dass die Definitionen und Voraussetzungen für lokal
 
 ## Anmelden einer EEG
 
+Es gibt in Österreich unterschiedliche Gesellschaftsformen und Rechtskörper, die gegründet werden können, um eine Energiegemeinschaft rechtsgültig betreiben zu können. Mögliche Rechtskörper für die Gründung einer Energiegemeinschaft sind ein Verein, eine Genossenschaft, eine Kapitalgesellschaft oder eine ähnliche Vereinigung mit Rechtspersönlichkeit. Mit der Gründung der Gesellschaftsform wird die Gemeinschaft handlungsfähig. Für die Registrierung der Energiegemeinschaften beim Netzbetreiber ist die Gründung einer Rechtsperson Voraussetzung, weil die spezifische Gemeinschafts-ID des Rechtskörpers verlangt wird und über diesen mit dem Netzbetreiber kommuniziert wird. 
+
 Für die Anmeldung bei den Wiener Netzen muss eine aktive Erzeugungsanlage vorhanden sein. Die Erzeugungsanlage muss technisch fertig gestellt und eine Anmeldung vom Energielieferanten bei den Wiener Netzen eingelangt sein.
 
 Die gemeinschaftliche Erzeugungsanlage bzw. die Energiegemeinschaft muss bei ebUtilities als Marktteilnehmer*in am Elektrizitätsmarkt registriert werden. Mit der Registrierung erhalten Sie Ihre Marktpartner-ID. Diese ID benötigen Sie für die Anmeldung bei den Wiener Netzen.
@@ -39,8 +41,7 @@ Die gemeinschaftliche Erzeugungsanlage bzw. die Energiegemeinschaft muss bei ebU
 Als nächstes muss die gemeinschaftliche Erzeugungsanlage oder die Energiegemeinschaft bei den Wiener Netzen angemeldet werden. Für den Abschluss des Vertrags werden folgende Informationen gebraucht:
 
 - Name der Gemeinschaft
-- Marktpartner-ID (GC-Nummer, RC-Nummer oder CC-Nummer, siehe Schritt 2)
-- Bei Bürgerenergiegemeinschaften zusätzlich die Gemeinschafts-ID
+- Marktpartner-ID (GC-Nummer: gemeinschaftliche Erzeugungsanlage, oder RC-Nummer: Erneuerbare-Energie-Gemeinschaft, oder CC-Nummer: Bürgerenergiegemeinschaft)
 - Name der Ansprechperson bei der gemeinschaftlichen Erzeugungsanlage bzw. Energiegemeinschaft
 - Kontaktdaten: E-Mail-Adresse, Telefonnummer
 - Einspeisezählpunktnummer(n) der Erzeugungsanlage(n)
