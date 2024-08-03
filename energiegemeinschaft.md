@@ -16,6 +16,9 @@ Eine Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organ
 - Einfachere Organisation und Verwaltung
 - Lokale Autarkie und regionale Wertschöpfung <!
 
+[!NOTE]
+An alert of type 'note' using global style 'callout'.
+
 ## Regionale Energiegemeinschaft
 
 - Die Teilnehmer sind über dasselbe Umspannwerk miteinander verbunden.
