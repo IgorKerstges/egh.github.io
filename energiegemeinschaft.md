@@ -1,6 +1,6 @@
 # Lokal versus Regional
 
-Eine Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organisieren. Der Hauptunterschied zwischen beiden Formen liegt in der Netzebene und der Verbindung zwischen den Teilnehmern. In dieser Übersicht beschränken wir uns ausschließlig auf Netzebene 7: Lokales Niederspannungsnetz (0,4 kV bis 1 kV).
+Eine Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organisieren. Der Hauptunterschied zwischen beiden Formen liegt in der Netzebene und der Verbindung zwischen den Teilnehmern. In dieser Übersicht beschränken wir uns ausschließlich auf Netzebene 7: Lokales Niederspannungsnetz (0,4 kV bis 1 kV).
 
 <img src="./_media/NahbereichDefinition.svg" alt="Nahbereich - Definition">
 
