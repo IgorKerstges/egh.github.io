@@ -29,3 +29,19 @@ Eine erneuerbare Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler
 > :fa-solid fa-check: jedoch geringere Netzkostenersparnisse (28%) und höhere Servicekosten
 
 Es ist wichtig zu beachten, dass die Definitionen und Voraussetzungen für lokale und regionale EEG variieren können. In Österreich gibt es zwei Modelle: die Bürgerenergiegemeinschaft (BEG) und die erneuerbare Energiegemeinschaft (EEG). BEGs dürfen Strom aus jeglichen Energiequellen erzeugen, während EEGs auf erneuerbare Energiequellen beschränkt sind. BEGs werden hier außer Betracht gelassen, wir schauen in dieser Übersicht nur auf die Voraussetzungen der EEGs.
+
+## Anmelden einer EEG
+
+Für die Anmeldung bei den Wiener Netzen muss eine aktive Erzeugungsanlage vorhanden sein. Die Erzeugungsanlage muss technisch fertig gestellt und eine Anmeldung vom Energielieferanten bei den Wiener Netzen eingelangt sein.
+
+Die gemeinschaftliche Erzeugungsanlage bzw. die Energiegemeinschaft muss bei ebUtilities als Marktteilnehmer*in am Elektrizitätsmarkt registriert werden. Mit der Registrierung erhalten Sie Ihre Marktpartner-ID. Diese ID benötigen Sie für die Anmeldung bei den Wiener Netzen.
+
+Als nächstes muss die gemeinschaftliche Erzeugungsanlage oder die Energiegemeinschaft bei den Wiener Netzen angemeldet werden. Für den Abschluss des Vertrags werden folgende Informationen gebraucht:
+
+- Name der Gemeinschaft
+- Marktpartner-ID (GC-Nummer, RC-Nummer oder CC-Nummer, siehe Schritt 2)
+- Bei Bürgerenergiegemeinschaften zusätzlich die Gemeinschafts-ID
+- Name der Ansprechperson bei der gemeinschaftlichen Erzeugungsanlage bzw. Energiegemeinschaft
+- Kontaktdaten: E-Mail-Adresse, Telefonnummer
+- Einspeisezählpunktnummer(n) der Erzeugungsanlage(n)
+- Bei Energiegemeinschaften: Firmenbuchnummer oder Vereinsnummer
