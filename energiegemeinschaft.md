@@ -12,7 +12,7 @@ Eine Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organ
 
 > Note: **Vorteile:** A) Höhere Netzkostenersparnisse (bis 57%), B) Einfachere Organisation und Verwaltung, C) Lokale Autarkie und regionale Wertschöpfung
 
-> [!TIP|label: "Hinweis"]
+> [!TIP|label:"Hinweis"]
 > An alert of type 'note' using global style 'callout'.
 
 ## Regionale Energiegemeinschaft
