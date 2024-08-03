@@ -1,6 +1,6 @@
-- Loslegen
+- Allgemeines
 
-  - [Schnellstart](quickstart.md)
+  - [Energiegemeinschaft](energiegemeinschaft.md)
   - [Schreiben weiterer Seiten](more-pages.md)
   - [Navigationsleiste anpassen](custom-navbar.md)
   - [Titelseite](cover.md)

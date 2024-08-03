@@ -4,7 +4,7 @@
 
 # Energie Gemeinschaft Heuberg (EGH)
 
-Überlegungen ob die Einrichtung einer Erneuerbare-Energie-Gemeinschaft sinnvol ist für den Bereich Heuberg in Dornbach, Wien.
+Überlegungen zur Sinnhaftigkeit der Einrichtung einer Erneuerbare-Energie-Gemeinschaft für den Bereich Heuberg in Dornbach, Wien.
 
 <img width="500" src="./_media/egh_coverpage.avif" alt="logo of docsify-awesome repository">
 
