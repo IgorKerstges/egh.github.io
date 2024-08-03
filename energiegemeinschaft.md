@@ -10,7 +10,8 @@ Eine Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organ
 - Die Erzeugungsanlage und die Teilnehmer sind über das Niederspannungs-Ortsnetz dieser Trafostation verbunden.
 - Keine fremden oder höheren Netzebenen sind involviert.
 
-!> **Vorteile**
+[!NOTE]
+**Vorteile**
 - Höhere Netzkostenersparnisse (bis 57%)
 - Einfachere Organisation und Verwaltung
 - Lokale Autarkie und regionale Wertschöpfung <!
