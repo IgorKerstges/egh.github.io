@@ -1,17 +1,25 @@
-# Schnellstart
+# Lokal versus Regional
 
-Es wird empfohlen, `docsify-cli` global zu installieren, welches bei der Inbetriebnahme und der lokalen Vorschau hilft.
-
+Eine Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organisieren. Der Hauptunterschied zwischen beiden Formen liegt in der Netzebene und der Verbindung zwischen den Teilnehmern. In dieser Übersicht beschränken wir uns ausschließlig auf Netzebene 7: Lokales Niederspannungsnetz (0,4 kV bis 1 kV).
 
 <img src="./_media/NahbereichDefinition.svg" alt="Nahbereich - Definition">
 
-```bash
-npm i docsify-cli -g
-```
+## Lokale Energiegemeinschaft
 
-## Inbetriebnahme
+- Die Teilnehmer sind über einen gemeinsamen Transformatorstation (Trafo) verbunden.
+- Die Erzeugungsanlage und die Teilnehmer sind über das Niederspannungs-Ortsnetz dieser Trafostation verbunden.
+- Keine fremden oder höheren Netzebenen sind involviert.
 
-Wenn du die Dokumentation in dem Unterordner `./docs` erstellen willst, kannst du den Befehl `init` verwenden.
+!> **Vorteile**
+- Höhere Netzkostenersparnisse (bis 57%)
+- Einfachere Organisation und Verwaltung
+- Lokale Autarkie und regionale Wertschöpfung <!
+
+## Regionale Energiegemeinschaft
+
+- Die Teilnehmer sind über dasselbe Umspannwerk miteinander verbunden.
+- Es werden regionale Mittelspannungsleitungen benötigt, um die Erzeugungsanlage und die Teilnehmer miteinander zu verbinden.
+- Die Energiegemeinschaft übersteigt den Bereich einer Trafostation und umfasst mehrere Netzebenen.
 
 ```bash
 docsify init ./docs
