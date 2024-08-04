@@ -38,7 +38,7 @@ Es gibt in Österreich unterschiedliche Gesellschaftsformen und Rechtskörper, d
 
 Für die Anmeldung bei den Wiener Netzen muss eine aktive Erzeugungsanlage vorhanden sein. Die Erzeugungsanlage muss technisch fertig gestellt und eine Anmeldung vom Energielieferanten bei den Wiener Netzen eingelangt sein.
 
-Die gemeinschaftliche Erzeugungsanlage bzw. die Energiegemeinschaft muss bei ebUtilities als Marktteilnehmer*in am Elektrizitätsmarkt registriert werden. Mit der Registrierung erhalten Sie Ihre Marktpartner-ID. Diese ID benötigen Sie für die Anmeldung bei den Wiener Netzen.
+Die gemeinschaftliche Erzeugungsanlage bzw. die Energiegemeinschaft muss bei ebUtilities als Marktteilnehmer*in am Elektrizitätsmarkt registriert werden. Mit der Registrierung erhalten Sie Ihre Marktpartner-ID. Diese ID wird benötigt für die Anmeldung bei den Wiener Netzen.
 
 Als nächstes muss die gemeinschaftliche Erzeugungsanlage oder die Energiegemeinschaft bei den Wiener Netzen angemeldet werden. Für den Abschluss des Vertrags werden folgende Informationen gebraucht:
 

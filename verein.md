@@ -14,7 +14,7 @@ Anschließend prüft die Behörde die Statuten auf ihre Gesetzeskonformität. Be
 ## Besetzungen
 Ein Verein besteht aus:
 1. Zumindest ein zweiköpfiges Leitungsorgan (Oft bekennt als 'Obmann/Obfrau' und 'Stellvertretende Obmann/Obfrau')
-2. Zumindest zwei RechnungsprüferInnen (Rechnungsprüfer/Rechnungsprüferin und Stellvertreteende Rechnungsprüfer/Rechnungsprüferin)
+2. Zumindest zwei RechnungsprüferInnen (Rechnungsprüfer/Rechnungsprüferin und Stellvertretende Rechnungsprüfer/Rechnungsprüferin)
 3. Die Mitgliederversammlung
 
 Die Gestaltung der Vereinsorganisation steht den Gründerinnen/den Gründern und den zur späteren Beschlussfassung über Statutenänderungen berufenen Vereinsorganen im Rahmen der Gesetze frei.
