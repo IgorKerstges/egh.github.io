@@ -39,5 +39,4 @@ Ein Verband ist ein Verein, in dem sich in der Regel Vereine zur Verfolgung geme
 
 ## Räumliche Gliederung, geografische Gebietsabdeckung
 
-6.2. - Ist es möglich sein, eine Sammelanfrage beim Netzbetreiber zu stellen, um herauszufinden, in welchem Lokal- oder Regionalbereich potentielle Interessent:innen angesiedelt sind?
 Mit einer Vollmachts-Vorlage ist es möglich, dass ein/eine Verantwortlicher/Verantwortliche einer zukünftigen oder bestehenden Energiegemeinschaft den Lokal- oder Regionalbereich eines/einer potentiellen Interessenten/Interessentin beim Netzbetreiber erfragt.

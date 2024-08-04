@@ -4,7 +4,7 @@ Mit 01.01.2022 ist das Erneuerbaren-Ausbau-Gesetz (EAG) in Österreich in Kraft 
 
 ## Lokal versus Regional
 
-Eine erneuerbare Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organisieren. Der Hauptunterschied zwischen beiden Formen liegt in der Netzebene und der Verbindung zwischen den Teilnehmern. In dieser Übersicht beschränken wir uns ausschließlich auf Netzebene 7: Lokales Niederspannungsnetz (0,4 kV bis 1 kV).
+Eine erneuerbare Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organisieren. Der Hauptunterschied zwischen beiden Formen liegt in der Netzebene und der Verbindung zwischen den Teilnehmern. In diese Übersicht beschränken wir uns ausschließlich auf Netzebene 7: Lokales Niederspannungsnetz (0,4 kV bis 1 kV).
 
 <img src="./_media/NahbereichDefinition.svg" alt="Nahbereich - Definition">
 
