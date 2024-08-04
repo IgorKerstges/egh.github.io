@@ -17,6 +17,6 @@ Die Antragstellung hat vor Projektstart zu erfolgen (in der Regel Beginn der Bau
 Zur Marktprämie ist festzuhalten, dass an der Verordnung noch gearbeitet wird. Wann genau der erste Förder-Call stattfinden soll, wurde noch nicht festgelegt. Die Marktprämie fördert eingespeisten Strom durch den Ausgleich des Teils der Kosten, der über dem Marktpreis liegt. Der Förderwerber hat daher die Höhe des wirtschaftlich notwendigen Strompreises anzugeben. Die Vergabe des Förderbudgets erfolgt beginnend mit dem Projekt mit dem niedrigsten gemeldeten Strompreis.
 
 > [!WARNING|style:flat|label:Näher aus zu arbeiten]
-> Ich habe hier bisher einigemaß veraltete Information auftreiben können, dies soll noch weiter recherchiert werden!
+> Ich habe hier bisher einigermaß veraltete Infos auftreiben können, dies soll noch weiter recherchiert werden!
 > 
 > [Anmerkung: Igor 01.08.2024]
