@@ -36,3 +36,8 @@ Das Vereinsgesetz 2002 sieht auch Zweigverein, Zweigstelle, Verband und Dachverb
 Ein Zweigverein ist ein seinem Hauptverein statutarisch untergeordneter Verein, der die Ziele des übergeordneten Hauptvereins mitträgt. Eine Zweigstelle (Sektion) ist eine rechtlich unselbständige, aber weitgehend selbständig geführte, organisatorische Teileinheit eines Vereins.
 
 Ein Verband ist ein Verein, in dem sich in der Regel Vereine zur Verfolgung gemeinsamer Interessen zusammenschließen. Ein Dachverband ist ein Verein zur Verfolgung gemeinsamer Interessen von Verbänden.
+
+## Räumliche Gliederung, geografische Gebietsabdeckung
+
+6.2. - Ist es möglich sein, eine Sammelanfrage beim Netzbetreiber zu stellen, um herauszufinden, in welchem Lokal- oder Regionalbereich potentielle Interessent:innen angesiedelt sind?
+Mit einer Vollmachts-Vorlage ist es möglich, dass ein/eine Verantwortlicher/Verantwortliche einer zukünftigen oder bestehenden Energiegemeinschaft den Lokal- oder Regionalbereich eines/einer potentiellen Interessenten/Interessentin beim Netzbetreiber erfragt.
