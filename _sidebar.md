@@ -1,8 +1,8 @@
 - Allgemeines
 
   - [Energiegemeinschaft](energiegemeinschaft.md)
-  - [Schreiben weiterer Seiten](more-pages.md)
-  - [Navigationsleiste anpassen](custom-navbar.md)
+  - [Verein](verein.md)
+  - [Mitglieder](mitglieder.md)
   - [Titelseite](cover.md)
 
 - Anpassen

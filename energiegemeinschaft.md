@@ -1,6 +1,6 @@
 # Erneuerbare Energiegemeinschaft
 
-##Lokal versus Regional
+## Lokal versus Regional
 
 Eine erneuerbare Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler Ebene organisieren. Der Hauptunterschied zwischen beiden Formen liegt in der Netzebene und der Verbindung zwischen den Teilnehmern. In dieser Übersicht beschränken wir uns ausschließlich auf Netzebene 7: Lokales Niederspannungsnetz (0,4 kV bis 1 kV).
 
@@ -28,7 +28,7 @@ Eine erneuerbare Energiegemeinschaft (EEG) kann sich auf lokaler oder regionaler
 > :fa-solid fa-check: Möglichkeit, mehrere Trafostationen und Netzebenen zu umfassen
 > :fa-solid fa-check: jedoch geringere Netzkostenersparnisse (28%) und höhere Servicekosten
 
-Es ist wichtig zu beachten, dass die Definitionen und Voraussetzungen für lokale und regionale EEG variieren können. In Österreich gibt es zwei Modelle: die Bürgerenergiegemeinschaft (BEG) und die erneuerbare Energiegemeinschaft (EEG). BEGs dürfen Strom aus jeglichen Energiequellen erzeugen, während EEGs auf erneuerbare Energiequellen beschränkt sind. BEGs werden hier außer Betracht gelassen, wir schauen in dieser Übersicht nur auf die Voraussetzungen der EEGs.
+Es ist wichtig zu beachten, dass die Definitionen und Voraussetzungen für lokale und regionale EEG variieren. In Österreich gibt es zwei Modelle: die Bürgerenergiegemeinschaft (BEG) und die erneuerbare Energiegemeinschaft (EEG). BEGs dürfen Strom aus jeglichen Energiequellen erzeugen, während EEGs auf erneuerbare Energiequellen beschränkt sind. **BEGs werden in diese Übersicht außer Betracht gelassen, wir schauen hier nur auf die Voraussetzungen der EEGs.**
 
 ## Anmelden einer EEG
 
